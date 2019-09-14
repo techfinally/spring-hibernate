@@ -1,1 +1,1 @@
-# spring-hibernate
+# Spring Boot - Hibernate
